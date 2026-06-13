@@ -1,0 +1,7 @@
+echo "# https-github.com-abir-calculator-testing-final" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Abir-Ahmed26/https-github.com-abir-calculator-testing-final.git
+git push -u origin main
